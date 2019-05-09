@@ -1,6 +1,6 @@
 RaspberryPi home security camera livestream. Connecting system to the Azure Cloud with openVPN
 
-### Architecture scenario with multiple devices with a hub
+## Architecture scenario with multiple devices with a hub
 ![](architecture.png)
 
 ## Cloud Microsoft Azure
